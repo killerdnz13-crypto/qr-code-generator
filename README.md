@@ -14,5 +14,6 @@ Projeto desenvolvido durante meus estudos de Node.js.
 - Salva a URL em um arquivo TXT
 
 ## Como executar
-npm install
+npm i qr-image
+npm i inquirer
 node index.js
